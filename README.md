@@ -1,3 +1,5 @@
+### AI Programming 
+
 This repository contains a structured collection of **Artificial Intelligence (AI) programming concepts** implemented using **Python**.  
 It is designed to understand core AI logic through simple, clear, and practical code examples.
 
